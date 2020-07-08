@@ -1,7 +1,9 @@
 This is Rainbow
 blue
 green
-red 
+red
+pink
 orange 
 yellow
 white
+
