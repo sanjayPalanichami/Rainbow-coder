@@ -1,0 +1,7 @@
+This is Rainbow
+blue
+green
+red 
+orange 
+yellow
+white
